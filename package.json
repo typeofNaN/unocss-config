@@ -1,6 +1,9 @@
 {
   "name": "unocss-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "main": "./dist/unocss-config.cjs",
+  "module": "./dist/unocss-config.js",
+  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
